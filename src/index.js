@@ -1,3 +1,5 @@
+
+ // "start:dev": "concurrently \"npm start\" \"npm run json-server\"",
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
