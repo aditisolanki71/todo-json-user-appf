@@ -1,5 +1,16 @@
+// pkg.json
+// "start": "react-scripts start",
+// "json-server": "json-server --watch db.json --port 3003",
+//npm strat
+//npm run json-server
 
- // "start:dev": "concurrently \"npm start\" \"npm run json-server\"",
+//pkg.json
+// "start": "react-scripts start",
+// "json-server": "json-server --watch db.json --port 3003",
+// "start:dev": "concurrently \"npm start\" \"npm run json-server\"",
+//npm run start:dev
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
