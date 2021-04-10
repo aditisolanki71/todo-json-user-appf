@@ -53,7 +53,7 @@ const Home = () => {
             <td>{user.email}</td>
             <td>
                <Link class="btn btn-primary mr-2">view</Link>
-               <Link class="btn btn-outline-primary mr-2">Edit</Link>
+               <Link class="btn btn-outline-primary mr-2" to={`/users/edit/${user.id}`}>Edit</Link>
                <Link class="btn btn-danger">Delete</Link>
             </td>
          </tr>
