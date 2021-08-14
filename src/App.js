@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
     <div className="App">
-    <h1>Hello REact</h1>
+    <h1>Hello REacttt</h1>
     <Navbar />
     <Switch>
       <Route exact path="/" component={Home} />
